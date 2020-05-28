@@ -1,5 +1,9 @@
 # Fake Backend
 
+[![pipeline status](http://ec2-35-172-195-78.compute-1.amazonaws.com/psunday/fake_backend_gitlabci/badges/master/pipeline.svg)](http://ec2-35-172-195-78.compute-1.amazonaws.com/psunday/fake_backend_gitlabci/commits/master)
+
+
+
 ## Project description
 
 This project is a fake backend used for educational purpose.
